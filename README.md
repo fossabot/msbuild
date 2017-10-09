@@ -1,9 +1,10 @@
-﻿# Microsoft.Build (MSBuild)
+# Microsoft.Build (MSBuild)
 The Microsoft Build Engine is a platform for building applications. This engine, which is also known as MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild, but MSBuild *does not* depend on Visual Studio. By invoking msbuild.exe on your project or solution file, you can orchestrate and build products in environments where Visual Studio isn't installed.
 
 For more information on MSBuild, see the [MSDN documentation](https://msdn.microsoft.com/en-us/library/dd393574(v=vs.120).aspx).
 
 [![Build Status](http://dotnet-ci.cloudapp.net/job/microsoft_msbuild/badge/icon)](http://dotnet-ci.cloudapp.net/job/microsoft_msbuild/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmsbuild.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmsbuild?ref=badge_shield)
 
 ### Source code
 
@@ -47,3 +48,6 @@ You are also encouraged to start a discussion by filing an issue or creating a g
 ## License
 
 MSBuild is licensed under the [MIT license](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fmsbuild.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fmsbuild?ref=badge_large)
